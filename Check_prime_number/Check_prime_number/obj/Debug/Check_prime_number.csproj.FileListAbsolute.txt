@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\bin\Debug\Check_prime_number.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\bin\Debug\Check_prime_number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\bin\Debug\Check_prime_number.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\obj\Debug\Check_prime_number.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\obj\Debug\Check_prime_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\obj\Debug\Check_prime_number.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\obj\Debug\Check_prime_number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Check_prime_number\Check_prime_number\obj\Debug\Check_prime_number.pdb

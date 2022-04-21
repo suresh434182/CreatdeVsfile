@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\bin\Debug\Array_Exa.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\bin\Debug\Array_Exa.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\bin\Debug\Array_Exa.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\obj\Debug\Array_Exa.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\obj\Debug\Array_Exa.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\obj\Debug\Array_Exa.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\obj\Debug\Array_Exa.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Exa\Array_Exa\obj\Debug\Array_Exa.pdb

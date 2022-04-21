@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\bin\Debug\Array_Try.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\bin\Debug\Array_Try.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\bin\Debug\Array_Try.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\obj\Debug\Array_Try.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\obj\Debug\Array_Try.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\obj\Debug\Array_Try.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Array_Try\Array_Try\obj\Debug\Array_Try.pdb

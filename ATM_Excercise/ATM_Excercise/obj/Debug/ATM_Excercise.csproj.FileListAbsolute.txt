@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\bin\Debug\ATM_Excercise.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\bin\Debug\ATM_Excercise.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\bin\Debug\ATM_Excercise.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\obj\Debug\ATM_Excercise.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\obj\Debug\ATM_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\obj\Debug\ATM_Excercise.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\ATM_Excercise\ATM_Excercise\obj\Debug\ATM_Excercise.pdb

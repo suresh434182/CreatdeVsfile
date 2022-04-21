@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\bin\Debug\Binary_Search.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\bin\Debug\Binary_Search.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\bin\Debug\Binary_Search.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\obj\Debug\Binary_Search.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\obj\Debug\Binary_Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\obj\Debug\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\obj\Debug\Binary_Search.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Bubble_sort\Binary_Search\obj\Debug\Binary_Search.pdb

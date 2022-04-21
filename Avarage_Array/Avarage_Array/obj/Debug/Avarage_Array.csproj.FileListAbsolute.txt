@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\bin\Debug\Avarage_Array.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\bin\Debug\Avarage_Array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\bin\Debug\Avarage_Array.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\obj\Debug\Avarage_Array.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\obj\Debug\Avarage_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\obj\Debug\Avarage_Array.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\obj\Debug\Avarage_Array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Avarage_Array\Avarage_Array\obj\Debug\Avarage_Array.pdb
